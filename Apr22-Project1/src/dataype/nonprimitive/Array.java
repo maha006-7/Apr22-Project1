@@ -23,6 +23,7 @@ public class Array {
 		}
 int i = 9;
 int t=10;
+int age=27;
 	}
 	
 }
